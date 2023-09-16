@@ -118,3 +118,4 @@ venv.bak/
 
 coco
 pretrained
+wandb/
