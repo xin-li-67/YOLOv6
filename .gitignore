@@ -116,5 +116,10 @@ venv.bak/
 *.pt
 *.engine
 
+<<<<<<< Updated upstream
 coco
 pretrained
+=======
+coco/
+yolov6_v3_to_mmyolo.py
+>>>>>>> Stashed changes
